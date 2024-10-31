@@ -1,0 +1,28 @@
+body{
+    color:white;
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+UL{
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16px;
+}
+header img {
+
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 5px solid palevioletred
+
+}
+   h1 {
+    color:palevioletred;
+   }
+
+   footer img {
+    width: 400px;
+    height: 300px;
+   }
